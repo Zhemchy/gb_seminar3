@@ -1,5 +1,7 @@
 # gb_seminar3
-##hello
+##hello###
 
 
 **hello woild**
+
+я люблю git hub
